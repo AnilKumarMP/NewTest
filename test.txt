@@ -1,0 +1,10 @@
+ Volume in drive E is MISC
+ Volume Serial Number is C07A-7A21
+
+ Directory of E:\Anil\DevOps\GitProject
+
+01/18/2019  02:05 PM    <DIR>          .
+01/18/2019  02:05 PM    <DIR>          ..
+01/18/2019  02:05 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  124,963,913,728 bytes free
